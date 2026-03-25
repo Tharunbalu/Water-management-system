@@ -14,7 +14,8 @@ Features
 - Efficient water utilization
 
 Output
-(Add images if available)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/833ec481-a874-40c8-8ab8-c69e3ba65d41" />
+
 
 Author
 Tharun B
